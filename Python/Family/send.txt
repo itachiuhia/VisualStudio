@@ -1,0 +1,2 @@
+motherName,childName,gender,partner
+"Queen Anga","Chit","M","Amba"
