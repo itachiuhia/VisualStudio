@@ -58,6 +58,6 @@ if __name__ == '__main__':
     arr = [12, 11, 13, 5, 6, 7]
     print("Given array is", end="\n")
     printList(arr)
-    mergeSort(arr, 0, len(arr)-1)
+    mergeSort(arr, 0, len(arr))
     print("Sorted array is: ", end="\n")
     printList(arr)
