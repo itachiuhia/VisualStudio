@@ -13,7 +13,6 @@ enum Color{
     }
 }
 
-
 public class EnumTest1 {
 
     public static void main(String[] args) {
